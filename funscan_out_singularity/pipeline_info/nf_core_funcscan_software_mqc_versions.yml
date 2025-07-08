@@ -1,0 +1,11 @@
+UNTAR_CARD:
+  untar: 1.34
+UNTAR_CSS:
+  untar: 1.34
+UNTAR_DETECTION:
+  untar: 1.34
+UNTAR_MODULES:
+  untar: 1.34
+Workflow:
+    nf-core/funcscan: v2.1.0-ged9af9d
+    Nextflow: 25.04.5
